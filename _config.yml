@@ -7,12 +7,12 @@
 
 # Site settings
 title: Gravity
-email: hemangsk@gmail.com
+email: sharma.jivanshi@gmail.com
 description: The Liberal Jekyll Theme
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "https://femme-js.github.io/Musings" # the base hostname & protocol for your site
+twitter_username: _Jeevanshi_
+github_username:  Femme-js
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
